@@ -1,0 +1,15 @@
+Projeto TypeScript
+
+Objetivo: criar um projeto de CRUD para treinar a linguagem TypeScript e integração com uma API escrita em Dotnet Core.
+
+Entregas
+
+	01. API em dotnet core para realizar o CRUD dos lançamentos de despesas e receitas.
+		- Não terá cadastro de categorias ou locais.
+	02. Aplicação Angular para fazer a manutenção dos lançamentos e consultar os dados.
+	
+
+Restrições
+
+	01. Backend com SQL Server e Dotnet Core.
+	02. Frontend com Angular e TypeScript.
