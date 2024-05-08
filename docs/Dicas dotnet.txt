@@ -1,0 +1,12 @@
+Lembretes Dotnet
+
+08/05/2024
+
+	Comando usado para criar o projeto:
+
+		dotnet new create webapi -n expenses.api
+		
+	Lembretes
+	
+		- dotnet -h para listar comandos
+		- dotnet <comando> -h para detalhes do comando
