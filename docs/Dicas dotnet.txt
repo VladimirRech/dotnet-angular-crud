@@ -12,6 +12,10 @@ Lembretes Dotnet
 
 		dotnet sln add <caminho do projeto\nome.csprj>
 
+	Criando projeto do tipo class library
+
+		dotnet new create classlib -n expenses.domain
+
 08/05/2024
 
 	Comando usado para criar o projeto:
