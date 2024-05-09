@@ -1,5 +1,17 @@
 Lembretes Dotnet
 
+09/05/2024
+
+	https://ardalis.com/script-new-dotnet-solution-from-cli/
+	Comando para criar uma Solution:
+
+		# Entrar na pasta desejada
+		dotnet new sln
+
+	Comando para adicionar um projeto a Solution:
+
+		dotnet sln add <caminho do projeto\nome.csprj>
+
 08/05/2024
 
 	Comando usado para criar o projeto:
