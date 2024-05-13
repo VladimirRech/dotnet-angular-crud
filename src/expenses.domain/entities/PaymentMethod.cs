@@ -1,6 +1,6 @@
-﻿namespace expenses.domain.classes;
+﻿namespace expenses.domain.entities;
 
-public class PaymentMethod : Base
+public class PaymentMethod : BaseClass
 {
     public string Acronym { get; set; }
     public string Name { get; set; }
